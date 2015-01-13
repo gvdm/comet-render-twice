@@ -1,6 +1,6 @@
 organization := "me.gvdm"
 
-name := "Basic Lift"
+name := "Comet Render Twice"
 
 version := "0.1"
 
